@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540661264 source:d:\documentos\projetos ides\codeblocks\tp1 aeds3\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdlib.h>
+
